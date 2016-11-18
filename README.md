@@ -1,9 +1,9 @@
 ﻿KanColleViewer!
 --
 
-[![Release](https://img.shields.io/github/release/Yuubari/KanColleViewer.svg?style=flat-square)](https://github.com/Yuubari/KanColleViewer/releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/Yuubari/KanColleViewer/latest/total.svg?style=flat-square)](https://github.com/Yuubari/KanColleViewer/releases/latest)
-[![License](https://img.shields.io/github/license/Yuubari/KanColleViewer.svg?style=flat-square)](https://github.com/Yuubari/KanColleViewer/blob/develop/LICENSE.txt)
+[![Release](https://img.shields.io/github/release/AndySun25/KanColleViewer.svg?style=flat-square)](https://github.com/AndySun25/KanColleViewer/releases/latest)
+[![Downloads](https://img.shields.io/github/downloads/AndySun25/KanColleViewer/latest/total.svg?style=flat-square)](https://github.com/AndySun25/KanColleViewer/releases/latest)
+[![License](https://img.shields.io/github/license/AndySun25/KanColleViewer.svg?style=flat-square)](https://github.com/AndySun25/KanColleViewer/blob/develop/LICENSE.txt)
 
 
 KanColleViewer! is a Windows-only browser tool that provides a more informative interface for DMM.com's Kantai Collection ~KanColle~ browser game.
@@ -31,7 +31,7 @@ This project is a localisation of [@Grabacr07](https://twitter.com/Grabacr07)'s 
 * And more!
 
 ### Frequently Asked Questions
-Please refer to the [FAQ](https://github.com/Yuubari/KanColleViewer/wiki/Frequently-Asked-Questions).
+Please refer to the [FAQ](https://github.com/AndySun25/KanColleViewer/wiki/Frequently-Asked-Questions).
 
 ### System Requirements
 

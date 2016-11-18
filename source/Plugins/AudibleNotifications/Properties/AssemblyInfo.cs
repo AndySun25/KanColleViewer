@@ -10,7 +10,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("Smooth and Flat")]
 [assembly: AssemblyProduct("KanColleViewer")]
-[assembly: AssemblyCopyright("Copyright ©  2015, Yuubari")]
+[assembly: AssemblyCopyright("Copyright ©  2015, AndySun25")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 

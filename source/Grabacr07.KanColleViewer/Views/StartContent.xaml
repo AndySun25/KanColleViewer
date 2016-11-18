@@ -298,8 +298,8 @@
 							</metro2:HyperlinkEx>
 							<LineBreak />
 							<Run Text="Source code:" />
-							<metro2:HyperlinkEx Uri="https://github.com/Yuubari/KanColleViewer">
-								<Run Text="https://github.com/Yuubari/KanColleViewer" />
+                            <metro2:HyperlinkEx Uri="https://github.com/AndySun25/KanColleViewer">
+                                <Run Text="https://github.com/AndySun25/KanColleViewer" />
 							</metro2:HyperlinkEx>
 						</Paragraph>
 					</FlowDocument>
